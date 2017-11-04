@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "source": "bbc-news",
+    "sortBy": "top",
+    "articles": [
+      {
+        "author": "BBC News",
+        "title": "Sacked Catalan leader 'not seeking asylum'",
+        "description": "Carles Puigdemont says he and several colleagues went to Belgium for their safety and freedom.",
+        "url": "http://www.bbc.co.uk/news/world-europe-41819940",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p05ll6dl.jpg",
+        "publishedAt": "2017-10-31T15:33:38Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Uncles convicted of 10-year-old's rape",
+        "description": "The girl was raped by two uncles and the second uncle's DNA matched her baby's.",
+        "url": "http://www.bbc.co.uk/news/world-asia-india-41817519",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D74B/production/_98551155_gettyimages-158558149.jpg",
+        "publishedAt": "2017-10-31T11:19:13Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Trump trashes 'low level' indicted aide",
+        "description": "The president says his former adviser George Papadopoulos was a \"low level volunteer\" and \"liar\".",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-41820677",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1709D/production/_98556349_hi042700474.jpg",
+        "publishedAt": "2017-10-31T16:19:49Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Doubts over US sailors' survival story",
+        "description": "The US Coast Guard says that neither Jennifer Appel nor Tasha Fuiava used their emergency beacon.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-41816709",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p05lkjgv.jpg",
+        "publishedAt": "2017-10-31T16:25:22Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Germany marks 500 years since Reformation",
+        "description": "As a special religious service takes place, here's what you need to know about Tuesday's anniversary events.",
+        "url": "http://www.bbc.co.uk/news/world-europe-41817418",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17219/production/_98554749_042712392-1.jpg",
+        "publishedAt": "2017-10-31T16:36:57Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Kelly: 'Lack of compromise' brought Civil War",
+        "description": "President Trump's chief of staff General John Kelly was speaking to Fox News when he made the remarks.",
+        "url": "http://www.bbc.co.uk/news/blogs-trending-41815358",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/2C82/production/_98549311_gettyimages-633183042.jpg",
+        "publishedAt": "2017-10-31T11:09:05Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Russia posts 'reached 126m Facebook users'",
+        "description": "Facebook says 80,000 posts linked to Russia were produced before and after the US election in 2016.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-41812369",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p05lk4c7.jpg",
+        "publishedAt": "2017-10-31T12:48:48Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Special Emmy award for Spacey withdrawn",
+        "description": "The actor will no longer receive the International Emmy award in November.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-41816238",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12061/production/_98552837_spacey.jpg",
+        "publishedAt": "2017-10-31T16:05:49Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Refugees 'scared' to leave Australia camp",
+        "description": "Men held by Australia in a centre due to be closed in Papua New Guinea say they fear for their lives.",
+        "url": "http://www.bbc.co.uk/news/world-australia-41812189",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11F02/production/_98547437_manus.jpg",
+        "publishedAt": "2017-10-31T16:13:24Z"
+      },
+      {
+        "author": "BBC News",
+        "title": "Vegas shooting survivors die in car crash",
+        "description": "The Carvers ran from a hail of gunfire in Las Vegas, only to die outside their California home.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-41805327",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/ABE4/production/_98540044_e046aece-d60e-47fe-984f-5151a65f42c1.jpg",
+        "publishedAt": "2017-10-31T15:21:37Z"
+      }
+    ]
+  }

@@ -1,0 +1,5 @@
+/*constants for actions*/
+export const LOAD_NEWS_SUCCESS='LOAD_NEWS_SUCCESS';
+export const LOAD_NEWS_BEGIN='LOAD_NEWS_BEGIN';
+export const LOAD_NEWS_BY_ID_SUCCESS='LOAD_NEWS_BY_ID_SUCCESS';
+export const LOAD_NEWS_BY_ID_BEGIN='LOAD_NEWS_BY_ID_BEGIN';
